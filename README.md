@@ -112,5 +112,5 @@ Possíveis evoluções do projeto
 - Exposição do serviço via API (FastAPI)
 - Interface web simples
 
-Autor
-  Desenvolvido por Juliano Rodrigues Madeira
+Autor  
+   Desenvolvido por Juliano Rodrigues Madeira
