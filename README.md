@@ -111,3 +111,6 @@ Possíveis evoluções do projeto
 - Retorno estruturado em JSON
 - Exposição do serviço via API (FastAPI)
 - Interface web simples
+
+Autor
+  Desenvolvido por Juliano Rodrigues Madeira
