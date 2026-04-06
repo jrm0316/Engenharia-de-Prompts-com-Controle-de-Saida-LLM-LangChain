@@ -58,7 +58,7 @@ assistente-educacional-langchain/
 Como executar o projeto
 
   1.) Clonar o repositório
-    git clone https://github.com/seu-usuario/Prompt-Engineering---Explique-o-tema-e-depois-subtemas.git
+    git clone https://github.com/jrm0316/Engenharia-de-Prompts-com-Controle-de-Saida-LLM-LangChain/edit/main/README.md
     cd assistente-educacional-langchain
 
   2.) Instalar as dependências
